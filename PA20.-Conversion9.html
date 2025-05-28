@@ -1,0 +1,26 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversion 9</title>
+    <link rel="stylesheet" href="PA20.-Conversiones.css">
+</head>
+<body>
+    <div id="contenedorconv" style="background-color: blueviolet;">
+        <center>
+            <h2>Ingresa la cantidad que desees convertir de onzas a gramos</h2>
+            <br><br> <input type="text" name="oz" id="oz">
+            <br><br> <input type="button" name="conver" id="conver" value="Hacer la conversión" onclick="convert()" style="background-color: darkslategray;">
+            <br><br> <input type="text" name="g" id="g">
+            <br><br> <input type="button" name="reg" id="reg" value="Regresar al menú inicial" onclick="location.href='PA20.-Menú.html'" style="background-color: darkslategray;">
+        </center>
+    </div>
+    <script>
+        function convert()
+        {
+            var onzas = document.getElementById('oz').value;
+            var gramos = parseInt(onzas) * 28.3495;
+            document.getElementById('g').value = gramos + 'g';
+        }
+    </script>
+</body>
+</html>

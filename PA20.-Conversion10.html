@@ -1,0 +1,26 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversion 10</title>
+    <link rel="stylesheet" href="PA20.-Conversiones.css">
+</head>
+<body>
+    <div id="contenedorconv" style="background-color: cornflowerblue;">
+        <center>
+            <h2>Ingresa la cantidad que desees convertir de libras a onzas</h2>
+            <br><br> <input type="text" name="lb" id="lb">
+            <br><br> <input type="button" name="co" id="co" value="Hacer la conversión" onclick="conversion()" style="background-color: blueviolet;">
+            <br><br> <input type="text" name="oz" id="oz">
+            <br><br> <input type="button" name="regar" id="regar" value="Regresar al menú inicial" onclick="location.href='PA20.-Menú.html'" style="background-color: blueviolet;">
+        </center>
+    </div>
+    <script>
+        function conversion()
+        {
+            var libras = document.getElementById('lb').value;
+            var onzas = parseInt(libras) * 16;
+            document.getElementById('oz').value = onzas + 'oz';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversion 4</title>
+    <link rel="stylesheet" href="PA20.-Conversiones.css">
+</head>
+<body>
+    <div id="contenedorconv" style="background-color: rgb(0, 96, 160);">
+        <center>
+            <h2>Ingresa la cantidad que desees convertir de kilometros a pies</h2>
+            <br><br> <input type="text" name="km" id="km">
+            <br><br> <input type="button" name="co" id="co" value="Hacer la conversión" onclick="convert()" style="background-color: darkgreen;">
+            <br><br> <input type="text" name="ft" id="ft">
+            <br><br> <input type="button" name="regres" id="regres" value="Regresar al menú inicial" onclick="location.href='PA20.-Menú.html'" style="background-color: darkgreen;">
+        </center>
+    </div>
+    <script>
+        function convert()
+        {
+            var kilometros = document.getElementById('km').value;
+            var pies = parseInt(kilometros) * 3281;
+            document.getElementById('ft').value = pies + 'ft';
+        }
+    </script>
+</body>
+</html>

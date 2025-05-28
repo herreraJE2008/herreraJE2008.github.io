@@ -1,0 +1,26 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversion 3</title>
+    <link rel="stylesheet" href="PA20.-Conversiones.css">
+</head>
+<body>
+    <div id="contenedorconv" style="background-color: rgb(189, 186, 15);">
+        <center>
+            <h2>Ingresa la cantidad que desees convertir de pies a millas</h2>
+            <br><br> <input type="text" name="ft" id="ft">
+            <br><br> <input type="button" name="conver" id="conver" value="Hacer la conversión" onclick="conver()" style="background-color: chocolate;">
+            <br><br> <input type="text" name="mill" id="mill">
+            <br><br> <input type="button" name="regre" id="regre" value="Regresar al menú inicial" onclick="location.href='PA20.-Menú.html'" style="background-color: chocolate;">
+        </center>
+    </div>
+    <script>
+        function conver()
+        {
+            var pies = document.getElementById('ft').value;
+            var millas = parseInt(pies) / 5280;
+            document.getElementById('mill').value = millas + 'mill';
+        }
+    </script>
+</body>
+</html>

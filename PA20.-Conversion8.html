@@ -1,0 +1,26 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversion 8</title>
+    <link rel="stylesheet" href="PA20.-Conversiones.css">
+</head>
+<body>
+    <div id="contenedorconv" style="background-color: chocolate;">
+        <center>
+            <h2>Ingresa la cantidad que desees convertir de toneladas a kilogramos</h2>
+            <br><br> <input type="text" name="ton" id="ton">
+            <br><br> <input type="button" name="cov" id="cov" value="Hacer la conversión" onclick="convc()" style="background-color: forestgreen;">
+            <br><br> <input type="text" name="kg" id="kg">
+            <br><br> <input type="button" name="resar" id="resar" value="Regresar al menú inicial" onclick="location.href='PA20.-Menú.html'" style="background-color: forestgreen;">
+        </center>
+    </div>
+    <script>
+        function convc()
+        {
+            var toneladas = document.getElementById('ton').value;
+            var kilogramos = parseInt(toneladas) * 1000;
+            document.getElementById('kg').value = kilogramos + 'kg';
+        }
+    </script>
+</body>
+</html>

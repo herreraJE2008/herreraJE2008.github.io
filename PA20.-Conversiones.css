@@ -1,0 +1,11 @@
+#contenedorconv
+{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    border: 2px solid black;
+}
+input
+{
+    font-size: 30;
+}

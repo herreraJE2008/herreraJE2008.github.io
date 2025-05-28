@@ -1,0 +1,27 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversion 1</title>
+    <link rel="stylesheet" href="PA20.-Conversiones.css">
+</head>
+<body>
+    <div id="contenedorconv" style="background-color: rgb(160, 95, 95);">
+        <center>
+            <h2>CWNTIMETROS A METROS</h2>
+            <h2>Ingresa la cantidad en centimetros</h2>
+            <br><br> <input type="text" name="cm" id="cm">
+            <br><br> <input type="button" name="con" id="con" value="Hacer la conversión" onclick="con()" style="background-color: aquamarine;">
+            <br><br> <input type="text" name="me" id="me">
+            <br><br> <input type="button" name="regresar" id="regresar" value="Regresar al menú inicial" onclick="location.href='PA20.-Menú.html'" style="background-color: aquamarine;">
+        </center>
+    </div>
+    <script>
+        function con()
+        {
+            var centimetros = document.getElementById('cm').value;
+            var metros = parseInt(centimetros) / 100;
+            document.getElementById('me').value = metros + 'm';
+        }
+    </script>
+</body>
+</html>
