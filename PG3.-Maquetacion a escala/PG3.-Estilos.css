@@ -1,0 +1,142 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#pagina
+{
+    width: 750px;
+    height: 900px;
+    background-color: rgb(96, 96, 96);
+    border: 1px black solid;
+    margin: 20px auto;
+}
+
+/* seccion para la cabecer a de la pagina */
+#cabecera
+{
+    width: 100%;
+    height: 100px;
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 2.5px;
+}
+    #circuloizquierda
+    {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        background-color: yellow;
+        display: inline-block;
+    }
+    #cuadrocentral
+    {
+        width: 550px;
+        height: 90px;
+        background-color: blue;
+        display: inline-block;
+        text-align: center;
+        padding: 2.5px;
+    }
+        #circulos_centrales
+        {
+            width: 85px;
+            height: 85px;
+            border-radius: 50%;
+            background-color: azure;
+            display: inline-block;
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+    #circuloderecha
+    {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        background-color: chocolate;
+        display: inline-block;
+    }
+/* seccion para el cuerpoi de la pagina */
+
+#cuerpo
+{
+    width: 100%;
+    height: 650px;
+    background-color:aquamarine;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+    #seccionizquierda
+    {
+        width: 30%;
+        height: 600px;
+        background-color: darkblue;
+        display: inline-block;
+        margin-top: 25px;
+        text-align: center;
+    }
+        #circulosverticales
+        {
+            width:190px;
+            height: 190px;
+            border-radius: 50%;
+            background-color: white;
+            margin: auto;
+            margin-top: 7px;
+        }
+    #seccionderecha
+    {
+        width: 65%;
+        height: 600px;
+        background-color: fuchsia;
+        display: inline-block;
+        margin-top: 25px;
+    }
+        #derechasuperior
+        {
+
+        }
+            #cuadrosuperior
+            {
+                width: 95%;
+                height: 300px;
+                background-color: cyan;
+                margin: auto ;
+                margin-top: 5px;
+                margin-bottom: 5px;
+            }
+        #derechamedio
+        {
+            text-align: center;
+        }
+            #cuedrosmedio
+            {
+                width: 25%;
+                height: 100px;
+                background-color: lightcyan;
+                display: inline-block;
+            }
+        #derechainferior
+        {
+            text-align: center;
+        }
+            #circulosinferiores
+            {
+                width: 180px;
+                height: 180px;
+                border-radius: 50%;
+                background-color: white;
+                display: inline-block;
+            }
+/* seccion para el pie de la pagina */
+#pie
+{
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

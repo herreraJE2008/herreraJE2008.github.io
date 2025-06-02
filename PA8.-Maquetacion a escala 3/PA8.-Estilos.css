@@ -1,0 +1,283 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#paginaprincipal
+{
+    width: 1100;
+    height: 1400;
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    margin: auto;
+}
+    #p1
+    {
+        width: 99%;
+        height: 32%;
+        background-color: white;
+        margin: 5;
+        margin-top: 15px;
+    }
+        #p1p1
+        {
+            width: 48%;
+            height: 98%;
+            background-color: black;
+            display: inline-block;
+            margin: 5;
+            margin-left: 8;
+        }
+            #p1p1circuloo
+            {
+                width: 120;
+                height: 120;
+                background-color: coral;
+                border-radius: 50%;
+                display: inline-block;
+                margin: 10;
+                margin-bottom: 30;
+            }
+            #p1p1va
+            {
+                width: 70%;
+                height: 40%;
+                background-color:  black;
+                display: inline-block;
+                margin: 5;
+            }
+                #p1p1ralla
+                {
+                    width: 65%;
+                    height: 25%;
+                    background-color: yellow;
+                    margin: 5;
+                    display: inline-block;
+                }
+                #p1p1circulo
+                {
+                    width: 50;
+                    height: 50;
+                    background-color: yellowgreen;
+                    border-radius: 50%;
+                    display: inline-block;
+                }
+            #p1p1cyc
+            {
+                width: 98%;
+                height: 40%;
+                background-color: black;
+                display: inline-block;
+                margin: 5;
+            }
+                #p1p1cyc_ralla
+                {
+                    width: 12.5%;
+                    height: 25.5%;
+                    background-color: aquamarine;
+                    margin: 2;
+                    display: inline-block;
+                }
+                #p1p1cyc_circulo
+                {
+                    width: 57;
+                    height: 80;
+                    border-radius: 50%;
+                    background-color: blue;
+                    display: inline-block;
+                    margin-left: 10;
+                
+                }
+
+
+        #p1p2
+        {
+            width: 49%;
+            height: 98%;
+            background-color: white;
+            display: inline-block;
+            margin: 5;
+            text-align: center;
+        }
+            #p1p2ralla
+            {
+                width: 98%;
+                height: 11%;
+                background-color: darkblue;
+                margin: 5;
+            }
+            #p1p2circulo
+            {
+                width: 130;
+                height: 130;
+                border-radius: 50%;
+                background-color: black;
+                display: inline-block;
+                margin: auto;
+            }
+
+
+
+
+    #p2
+    {
+        width: 99%;
+        height: 32%;
+        background-color: yellow;
+        margin: 5;
+        margin-top: 15px;
+        padding-top: 2;
+    }
+        #p2p1
+        {
+            width: 99%;
+            height: 20%;
+            background-color:  cyan;
+            margin:5;
+            
+        }
+        #p2p2
+        {
+            width: 99%;
+            height: 10%;
+            background-color: darkgreen;
+            margin: 5;
+        }
+        #p2p3
+        {
+            width: 19%;
+            height: 64%;
+            background-color: firebrick;
+            margin: 5;display: inline-block;
+        }
+            #p2p3rallas
+            {
+                width: 85%;
+                height: 5%;
+                background-color: cyan;
+                margin: auto;
+                margin: 5 15;
+            }
+            #p2p3rallasv
+            {
+                width: 85%;
+                height: 50%;
+                background-color: yellowgreen;
+                margin: auto;
+                margin: 5 15;
+                margin-top: 10;
+            }
+        #p2p4
+        {
+            width: 59%;
+            height: 64%;
+            background-color: cyan;
+            margin:  5 0;
+            display: inline-block;
+        }
+            #p2p4ralla1
+            {
+                width: 98%;
+                height: 20%;
+                background-color: black;
+                margin: 5;
+            }
+            #p2p4ralla2
+            {
+                width: 98%;
+                height: 10%;
+                background-color: rgb(213, 232, 248);
+                margin: 5;
+            }
+            #p2p4ralla3
+            {
+                width: 98%;
+                height: 10%;
+                background-color: darkgreen;
+                margin: 5;
+            }
+            #p2p4ralla4
+            {
+                width: 98%;
+                height: 50%;
+                background-color: cyan;
+                margin: 5;
+            }
+                #p2p44circulo
+                {
+                    width: 130;
+                    height: 130;
+                    background-color: crimson;
+                    border-radius: 50%;
+                    display: inline-block;
+                    margin-top: 10;
+                    margin-bottom: 15;
+                }
+                #p2p44ralla
+                {
+                    width: 225;
+                    height: 130;
+                    background-color: antiquewhite;
+                    display: inline-block;
+                    margin-top: 10;
+                    margin-bottom: 15;
+                }
+
+        #p2p5
+        {
+            width: 19.3%;
+            height: 64%;
+            background-color:yellow;
+            margin: 5;
+            display: inline-block;
+        }
+            #p2p5rallas
+            {
+                width: 97%;
+                height: 23%;
+                background-color: rgb(255, 128, 0);
+                margin: auto;
+                margin: 5;
+            }
+    #p3
+    {
+        width: 99%;
+        height: 32%;
+        background-color: burlywood;
+        margin: 5;
+        margin-top: 15px;
+        padding-top: 5;
+    }
+        #p3rallaa
+        {
+            width: 60%;
+            height: 45%;
+            background-color: yellow;
+            margin: auto;
+        }
+        #p3ralla2
+        {
+            width: 99%;
+            height: 50%;
+            background-color: burlywood;
+            margin: 5;
+        }
+
+            #p32circulo
+            {
+                width: 130;
+                height: 130;
+                background-color: blueviolet;
+                border-radius: 50%;
+                display: inline-block;
+                margin: 10 20;
+            }
+            #p32ralla
+            {
+                width: 130;
+                height: 30;
+                background-color: peru;
+                
+                display: inline-block;
+                margin: 10 20;
+            }

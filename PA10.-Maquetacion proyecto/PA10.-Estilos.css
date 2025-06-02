@@ -1,0 +1,516 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+#paginaprincipal
+{
+    width: 1100;
+    height: 1400;
+    background-color: yellow;
+    margin: auto;
+    
+}
+    #pprec1
+    {
+        width: 300px;
+        height: 300px;
+        background-color: yellow;
+        display: inline-block;
+        margin: 5;
+    }
+    #pprec2
+    {
+        width: 770px;
+        height: 300px;
+        background-color: mediumblue;
+        display: inline-block;
+        margin: 5px;
+        padding: 1;
+    }
+        #rallaverde
+        {
+            width: 5%;
+            height: 97%;
+            background-color:darkgreen ;
+            margin: 5px;
+            display: inline-block;
+        }
+        #rallaenmedio
+        {
+            width: 86.2%;
+            height: 100%;
+            background-color: mediumblue;
+            display: inline-block;
+
+        }
+            #rayablanca
+            {
+                width: 100%;
+                height: 11%;
+                background-color: white;
+                margin-top: px;
+                display: inline-block;
+            }
+            #rayablanca22
+            {
+                width: 100%;
+                height: 11%;
+                background-color: white;
+                margin-top: px;
+                display: inline-block;
+            }
+            #rayacentrocentro
+            {
+                width: 100%;
+                height: 79%;
+                background-color: mediumblue;
+                display: inline-block;
+    
+            }
+            #rallacirculorojo
+            {
+                width: 16.5%;
+                height: 90%;
+                background-color: mediumblue;
+                margin: 2.5px;
+                margin-bottom: 0px;
+                display: inline-block;
+            }
+                #circulosrojo
+                {
+                    width: 72px;
+                    height: 72px;
+                    background-color: crimson;
+                    border-radius: 50%;
+                    margin: 2;
+                    margin-left: 15px;
+                }
+            #rayaazul
+            {
+                width: 22%;
+                height: 90%;
+                background-color: mediumblue;
+                margin: 2.5px;
+                display: inline-block;
+            }
+                #rallasazules1
+                {
+                    width: 146px;
+                    height: 120px;
+                    background-color: mediumturquoise;
+                }
+                #rallasazules
+                {
+                    width: 146px;
+                    height: 23px;
+                    background-color: dodgerblue;
+                    margin: 10 0;
+                }
+        #circulos11
+        {
+            width: 250px;
+            height: 250px;
+            background-color: white;
+            border-radius: 50%;
+            padding: 25px;
+        }
+        
+        #circulos12
+        {
+            width: 200px;
+            height: 200px;
+            background-color: darkgray;
+            border-radius: 50%;
+            margin: auto;
+            padding: 25px;
+        } 
+        
+        #circulos13
+        {
+            width: 150px;
+            height: 150px;
+            background-color: gray;
+            border-radius: 50%;
+            margin: auto;
+            padding: 25px;
+        }
+        
+        #circulos14
+        {
+            width: 100px;
+            height: 100px;
+            background-color: dimgray;
+            border-radius: 50%;
+            margin: auto;
+            padding: 25px;
+        }
+        
+        #circulos15
+        {
+            width: 50px;
+            height: 50px;
+            background-color: hotpink;
+            border-radius: 50%;
+            margin: auto;
+            padding: 25px;
+        }
+        
+        #circulos16
+        {
+            width: 50;
+            height: 50;
+            background-color: deeppink;
+            border-radius: 50%;
+            margin: auto;
+        }
+
+
+
+        #rayanegraazul
+        {
+            width: 100%;
+            height: 75px;
+            background-color: black;
+        }
+            #rallanegraazul1
+            {
+                width: 55px;
+                height: 60px;
+                background-color: rgb(200, 255, 237);
+                margin: 5;
+                display: inline-block;
+            }
+            #rallanegraazul2
+            {
+                width: 55px;
+                height: 60px;
+                background-color: aqua;
+                margin: 5;
+                border-radius: 50%;
+                display: inline-block;
+            }
+        #rayanegraroja
+        {
+            width: 75px;
+            height: 1010px;
+            background-color: black;
+            margin-top: 0;
+            display: inline-block;
+
+        }
+            #rayanegraroja1
+            {
+                width: 63px;
+                height: 70px;
+                background-color: yellow;
+                border-radius: 50%;
+                margin: 5px;
+            }
+            #rayanegraroja2
+            {
+                width: 63px;
+                height: 80px;
+                background-color: red;
+                margin: 5px;
+                margin-top: 13;
+            }
+        #cuadrocentral
+        {
+            width: 92.2%;
+            height: 1005px;
+            background-color: yellow;
+            display: inline-block;
+        }
+            #cuadrocentra1
+            {
+                width: 100%;
+                height: 300px;
+                background-color: darkblue;
+            }
+                #circulosab
+                {
+                    width: 130px;
+                    height: 300px;
+                    background-color: darkblue;
+                    display: inline-block;
+                }
+                    #circuloazul
+                    {
+                        width: 120px;
+                        height: 120px;
+                        background-color: deepskyblue;
+                        border-radius: 50%;
+                        margin: 5;
+                        margin-top: 15px;
+                    }
+                    #circuloblanco
+                    {
+                        width: 120px;
+                        height: 120px;
+                        background-color: white;
+                        border-radius: 50%;
+                        margin: 5px;
+                        margin-top: 20px;
+                    }
+                
+                #rayasverticales
+                {
+                    width: 360px;
+                    height: 300px;
+                    background-color: darkblues;
+                    display: inline-block;
+                }
+                    #rallasverticales
+                    {
+                        width: 46px;
+                        height: 290px;
+                        margin: 5 ;
+                        background-color: white;
+                        display: inline-block;
+                    }
+                #rayashorizontales
+                {
+                    width: 185px;
+                    height: 300px;
+                    background-color: darkblue;
+                    display: inline-block;
+                }
+                    #rallashorizontales
+                    {
+                        width: 175px;
+                        height: 48px;
+                        background-color: white;
+                        margin: 5;
+                        margin-top: 20;
+
+
+                    }
+                #circulosnr
+                {
+                    width: 130px;
+                    height: 300px;
+                    background-color: darkblue;
+                    display: inline-block;
+                }
+                        #circulonaranja
+                        {
+                            width: 120px;
+                            height: 120px;
+                            background-color: orangered;
+                            border-radius: 50%;
+                            margin: 5;
+                            margin-top: 15px;
+                        }
+                        #circulorojo
+                        {
+                            width: 120px;
+                            height: 120px;
+                            background-color: red;
+                            border-radius: 50%;
+                            margin: 5px;
+                            margin-top: 20px;
+                        }
+
+
+            #cuadrocentra2
+            {
+                width: 220px;
+                height: 690px;
+                background-color: rgb(212, 176, 128);
+                margin-top: 6;
+                display: inline-block;
+            }
+                #cuadrosc2
+                {
+                    width: 210px;
+                    height: 220px;
+                    background-color: rgb(212, 176, 128);
+                    margin: 5;
+                    margin-top: 10;
+                }
+                    #centroc2v
+                    {
+                        width: 25px;
+                        height: 215px;
+                        background-color: white;
+                        display: inline-block;
+                        margin: 0 3;
+                    }
+                    #centroc2h
+                    {
+                        width: 205px;
+                        height: 25px;
+                        background-color: white;
+                        margin: 10 0;
+                    }
+            #cuadrocentra3
+            {
+                width: 650px;
+                height: 690px;
+                background-color: yellow;
+                margin-top: 6;
+                display: inline-block;
+            }
+                #circulote
+                {
+                    width: 500px;
+                    height: 500px;
+                    background-color: white;
+                    border-radius: 50%;
+                    margin: auto;
+                    margin-top: 10;
+                    padding:25px;
+                }
+                    #circulotea
+                    {
+                        width: 450px;
+                        height: 450px;
+                        background-color: darkblue;
+                        border-radius: 50%;
+                        margin: auto;
+                        padding:25px;
+                        
+                    }
+                        #circuloteab
+                        {
+                            width: 400px;
+                            height: 400px;
+                            background-color: mediumturquoise;
+                            border-radius: 50%;
+                            margin: auto;
+                            padding:25px;
+                        }
+                            #circulotev
+                            {
+                                width: 350px;
+                                height: 350px;
+                                background-color: yellowgreen;
+                                border-radius: 50%;
+                                margin: auto;
+                                padding: 25px;
+                            }
+                                #circuloteamarillo
+                                {
+                                    width: 300px;
+                                    height: 300px;
+                                    background-color: yellow;
+                                    border-radius: 50%;
+                                    margin: auto;
+                                    padding: 25px;
+                                }
+                                    #circuloterosa
+                                    {
+                                        width: 250px;
+                                        height: 250px;
+                                        background-color: plum;
+                                        border-radius: 50%;
+                                        margin: auto;
+                                        padding: 25px;
+                                        padding: 25px;
+                                    }
+                                        #circoloterosaf
+                                        {
+                                            width: 200px;
+                                            height: 200px;
+                                            background-color: fuchsia;
+                                            border-radius: 50%;
+                                            margin: auto;
+                                            padding: 25px;
+                                        }
+                                            #circuloteb
+                                            {
+                                                width: 150px;
+                                                height: 150px;
+                                                background-color: white;
+                                                border-radius: 50%;
+                                                margin: auto;
+                                                padding: 25px;
+                                            }
+                #recverde3
+                {
+                    width: 640px;
+                    height: 110px;
+                    background-color: yellowgreen;
+                    margin-top: 20;
+                    
+                }
+                    #recv1
+                    {
+                        width: 250px;
+                        height:100px;
+                        margin: 5;
+                        display: inline-block;
+                        background-color: yellowgreen;
+                    }
+                        #circulosaaa
+                        {
+                            width: 80px;
+                            height: 100px;
+                            background-color: aquamarine;
+                            border-radius: 50%;
+                            display: inline-block;
+
+                        }
+                        #circulosrrr
+                        {
+                            width: 80px;
+                            height: 100px;
+                            background-color: red;
+                            border-radius: 50%;
+                            display: inline-block;
+                            
+                        }
+                        #circulosafaf
+                        {
+                            width: 80px;
+                            height: 100px;
+                            background-color: cadetblue;
+                            border-radius: 50%;
+                            display: inline-block;
+                            
+                        }
+                    #cuadrosrallas
+                    {
+                        width: 120px;
+                        height: 90px;
+                        margin-bottom: 4;
+                        display: inline-block;
+                        background-color: yellowgreen;
+                    }
+                        #rallasblancasrecv1
+                        {
+                            width: 120px;
+                            height: 15px;
+                            background-color: white;
+                            margin: 5 0;
+                        }
+            #cuadrocentra4
+            {
+                width: 130px;
+                height: 690px;
+                background-color: rgb(212, 176, 128);
+                margin-top: 6;
+                display: inline-block;
+            }   
+                #rec41
+                {
+                    width: 130px;
+                    height: 230px;
+                    background-color: salmon;
+                    
+                }
+                #rec42
+                {
+                    width: 130px;
+                    height: 230px;
+                    background-color: blueviolet;
+                    
+                }
+                #rec43
+                {
+                    width: 130px;
+                    height: 230px;
+                    background-color: aquamarine;
+                    
+                }

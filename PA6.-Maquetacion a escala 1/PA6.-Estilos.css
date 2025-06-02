@@ -1,0 +1,282 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#paginas
+{
+    width: 700px;
+    height: 900px;
+    background-color: yellow;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+}
+    #pagina1
+    {
+        width: 97%;
+        height: 440px;
+        background-color: gray;
+        margin: 10px;
+    }
+        #pizquierda
+        {
+            width: 35%;
+            height: 420px;
+            background-color: forestgreen;
+            display: inline-block;
+            margin-top: 10px;
+        }
+            #circuloizquierda
+            {
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                background-color: aliceblue;
+                margin: auto;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            #rec1
+            {
+                width: 200px;
+                height: 35px;
+                background-color: black;
+                margin: auto;
+                margin-top: 5;
+            }
+        #pderecha
+        {
+            width: 60%;
+            height: 420px;
+            background-color: gray;
+            display: inline-block;
+            margin-left: 7;
+        }
+            #derechaarriba
+            {
+                width: 100%;
+                height: 100px;
+                background-color: rgb(122, 193, 255);
+            }
+                    #circulo1
+                    {
+                        width: 70px;
+                        height: 70px;
+                        border-radius: 50%;
+                        background-color: rgb(255, 197, 208);
+                        display: inline-block;
+                    }
+                    #circulo2
+                    {
+                        width: 70px;
+                        height: 70px;
+                        border-radius: 50%;
+                        background-color: crimson;
+                        display: inline-block;
+                        margin-left: 5px;
+                    }
+                    #circulo3
+                    {
+                        width: 70px;
+                        height: 70px;
+                        border-radius: 50%;
+                        background-color: rgb(252, 252, 252);
+                        display: inline-block;
+                        margin-left: 5px;
+                    }
+                    #cuadro
+                    {
+                        width: 150px;
+                        height: 80px;
+                        background-color: darkblue;
+                        display: inline-block;
+                        margin-top: 10px;
+                        margin-left: 5px;
+                    }
+            #derechaabajo
+            {
+                width: 100%;
+                height: 310px;
+                background-color: gray;
+                margin-top: 10px;
+            }
+                #abajo1
+                {
+                    width: 49%;
+                    height: 310px;
+                    background-color: darkturquoise;
+                    display: inline-block;
+                }
+                    #cuadro1
+                    {
+                        width: 90%;
+                        height: 30px;
+                        background-color: black ;
+                        margin-top: 5px;
+                        margin-left: 10px;
+                    }
+                    #circulo
+                    {
+                        width: 80px;
+                        height: 80px;
+                        border-radius: 50%;
+                        background-color: antiquewhite;
+                        margin: 10px;
+                        margin-left:58px;
+                    }
+                #abajo2
+                {
+                    width: 49%;
+                    height: 310px;
+                    background-color: crimson;
+                    display: inline-block;
+                    margin-left: 2px;
+                }
+                #cuadro2
+                {
+                    width: 95%;
+                    height: 200;
+                    background-color: cornflowerblue;
+                    margin: 5px;
+                }
+                    #derechacirculo2
+                    {
+                        width: 98%;
+                        height:100px ;
+                        background-color: crimson;
+                        margin-left: 2px;
+                        margin-top: 2px;
+
+                    }
+                        #circuloabajo2
+                        {
+                            width: 80px;
+                            height: 80px;
+                            background-color: antiquewhite;
+                            border-radius: 50%;
+                            display: inline-block;
+                            margin-top: 10PX;
+                        }
+                        #circuloabajo3
+                        {
+                            width: 80px;
+                            height: 80px;
+                            background-color: antiquewhite;
+                            border-radius: 50%;
+                            display: inline-flex;
+                            margin-left: 10PX;
+                            margin-top: 10PX;
+                            
+                            
+                        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #pagina2
+    {
+        width: 97%;
+        height: 440px;
+        background-color: gray;
+        margin: 10px;
+    }
+        #rectangulo1
+        {
+            width: 97%;
+            height: 70;
+            background-color: blue;
+            margin: 10px;
+        }
+            #circulop2
+            {
+                width: 40px;
+                height: 40px ;
+                border-radius: 50%;
+                background-color: aliceblue;
+                display: inline-block;
+                margin-top: 13px;
+                margin-left: 5px;
+            }
+        #rectangulo2
+        {
+            width: 97%;
+            height: 60;
+            background-color: deepskyblue;
+            margin: 10px;
+            padding: 6px;
+        }
+            #rectangulop2
+            {
+                width: 160;
+                height: 25;
+                background-color: black;
+                display: inline-block;
+                
+            }
+        #rectangulo3
+        {
+            width: 66%;
+            height: 260px;
+            margin: 0px 10;
+            background-color: cornflowerblue;  
+            display: inline-block; 
+            margin-right: 10;
+        }
+            #pp2circulo
+            {
+                width: 100;
+                height: 100;
+                border-radius: 50%;
+                background-color: yellow;
+                display: inline-block;
+                margin-bottom: 20px;
+                margin-right: 10;
+                margin-top: 10;
+            }
+            #pp2rectangulo
+            {
+                width: 300;
+                height: 100;
+                background-color: aquamarine;
+                display: inline-block;
+                margin-bottom: 20px;
+            }
+            #p2circulo
+            {
+                width: 100;
+                height: 100;
+                border-radius: 50%;
+                background-color: yellow;
+                display: inline-block;
+                margin-bottom: 20;
+            }
+        #rectangulo4
+        {
+            width: 28%;
+            height: 260px;
+            margin: 0px ;
+            background-color: darkgreen; 
+            display: inline-block;  
+        }
+            #circulosmoradosp2
+            {
+                width: 120;
+                height: 120;
+                border-radius: 50%;
+                background-color: blue;
+                margin: auto;
+                margin-top: 5;
+            }

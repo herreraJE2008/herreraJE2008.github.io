@@ -1,0 +1,327 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#principal
+{
+    width: 1100px;
+    height: 1400px;
+    background-color: deeppink;
+    margin: auto;
+}
+
+
+    #s1
+    {
+        width: 98%;
+        height: 50%;
+        background-color: yellow;
+        display: inline-block;
+        margin-left: 1%;
+        margin-top: 1%;
+    }
+        #rallacafe
+        {
+            width: 1.5%;
+            height: 18%;
+            margin-left: 1%;
+            margin-top: 1%;
+            display: inline-block;
+            background-color: rgb(109, 88, 50);
+        }
+        #rallalarga
+        {
+            width: 93%;
+            height: 18%;
+            background-color: burlywood;
+            margin-left: 0.25%;
+            display: inline-block;
+        } 
+        #izquierda1
+        {
+            width: 18%;
+            height: 77%;
+            margin-left: 1%;
+            margin-top: 1%;
+            background-color: crimson;
+            display: inline-block;
+        }
+            #i1circulorosa
+            {
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                background-color: darksalmon;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                margin-left: 21px;
+            }
+            #i1rallasamarillas
+            {
+                width: 175px;
+                height: 30px;
+                background-color: darkgoldenrod;
+                margin-top: 20px;
+                margin-left: 10px;
+                margin-bottom: 20px;
+            }
+        #derecha1
+        {
+            width: 18%;
+            height: 77%;
+            margin-left: 1%;
+            margin-top: 1%;
+            background-color: rgb(65, 37, 71);
+            display: inline-block;
+        }
+            #c1
+            {
+                width: 70%;
+                height: 65%;
+                margin-left: 15%;
+                margin-top: 10%;
+                background-color: khaki;
+                padding: 2 0;
+            }
+                #rallac1
+                {
+                    width: 80%;
+                    height: 25px;
+                    margin-top: 10px;
+                    margin-bottom:10px;
+                    margin-left: 10%;
+                    background-color: rgb(109, 88, 50);
+                }
+            #circuloderecha
+            {
+                width: 130px;
+                height: 130px;
+                border-radius: 50%;
+                margin-top: 15px;
+                margin-left: 30px;
+                background-color: crimson;
+            }
+        #centro
+        {
+            width: 59%;
+            height: 77%;
+            margin-left: 1%;
+            background-color: yellow;
+            display: inline-block;
+        }
+            #rallamorada
+            {
+                width: 100%;
+                height: 30%;
+                background-color: rgb(46, 22, 35);
+            }
+                #circuloa
+                {
+                    width: 90px;
+                    height: 135px;
+                    margin-left: 5px;
+                    margin-top: 15px;
+                    border-radius: 50%;
+                    background-color: orange;
+                    display: inline-block;
+                }
+                #contrallas
+                {
+                    width: 210px;
+                    height: 140px;
+                    margin-left: 15px;
+                    background-color: rgb(46, 22, 35);
+                    display: inline-block;
+                }
+                    #lineas
+                    {
+                        width: 100%;
+                        height: 30px;
+                        background-color: rosybrown;
+                        margin-top: 5px;
+                        margin-bottom: 5px;
+                    }
+            #circulo1
+            {
+                width: 310px;
+                height: 310px;
+                border-radius: 50%;
+                background-color: rgb(70, 38, 38);
+                display: inline-block;
+                margin-right: 5px;
+                margin-top: 40px;
+                margin-bottom: 27px;
+            }
+            #circulo2
+            {
+                width: 310px;
+                height: 310px;
+                border-radius: 50%;
+                background-color: darksalmon;
+                display: inline-block;
+                margin-left: 5px;
+                margin-bottom: 27px;
+            }
+
+
+
+
+
+
+
+
+
+
+    #s2
+    {
+        width: 48.5%;
+        height: 48%;
+        background-color: rgb(109, 88, 50);
+        display: inline-block;
+        margin-left: 1%;
+        margin-top: 1%;
+    }
+        #circulogrande
+        {
+            width: 470px;
+            height: 470px;
+            margin-top: 15px;
+            margin-left: 30px;
+            margin-bottom: 10px;
+            border-radius: 50%;
+            background-color:  darkmagenta;
+        }
+            #circulog1
+            {
+                width: 400px;
+                height: 400px;
+                margin-top: 35px;
+                margin-left: 35px;
+                border-radius: 50%;
+                display: inline-block;
+                background-color: darksalmon;
+            }
+                #circulog2
+                {
+                    width: 330px;
+                    height: 330px;
+                    margin-top: 35px;
+                    margin-left: 35px;
+                    border-radius: 50%;
+                    display: inline-block;
+                    background-color: rgb(73, 56, 77);
+                }
+                    #circulog3
+                    {
+                        width: 260px;
+                        height: 260px;
+                        margin-top: 35px;
+                        margin-left: 35px;
+                        border-radius: 50%;
+                        display: inline-block;
+                        background-color: crimson;
+                    }
+                        #circulog4
+                        {
+                            width: 190px;
+                            height: 190px;
+                            margin-top: 35px;
+                            margin-left: 35px;
+                            border-radius: 50%;
+                            display: inline-block;
+                            background-color: white;
+                        }
+        #rallasnegras
+        {
+            width: 240px;
+            height: 30px;
+            margin-top: 6px;
+            display: inline-block;
+            background-color: black;
+            margin-left: 15px;
+            margin-bottom: 1.5px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #s3
+    {
+        width: 48.5%;
+        height: 48%;
+        background-color: coral;
+        display: inline-block;
+        margin-left: 1%;
+        margin-top: 1%;
+    }
+    #circulogrande2
+    {
+        width: 470px;
+        height: 470px;
+        margin-top: 15px;
+        margin-left: 30px;
+        margin-bottom: 10px;
+        border-radius: 50%;
+        background-color:  darksalmon;
+    }
+        #circulog21
+        {
+            width: 400px;
+            height: 400px;
+            margin-top: 35px;
+            margin-left: 35px;
+            border-radius: 50%;
+            display: inline-block;
+            background-color: crimson;
+        }
+            #circulog22
+            {
+                width: 330px;
+                height: 330px;
+                margin-top: 35px;
+                margin-left: 35px;
+                border-radius: 50%;
+                display: inline-block;
+                background-color: yellow;
+            }
+                #circulog23
+                {
+                    width: 260px;
+                    height: 260px;
+                    margin-top: 35px;
+                    margin-left: 35px;
+                    border-radius: 50%;
+                    display: inline-block;
+                    background-color: darkgreen;
+                }
+                    #circulog24
+                    {
+                        width: 190px;
+                        height: 190px;
+                        margin-top: 35px;
+                        margin-left: 35px;
+                        border-radius: 50%;
+                        display: inline-block;
+                        background-color: white;
+                    }
+    #circulosazules
+    {
+        width: 120px;
+        height: 120px;
+        margin-top: 15px;
+        margin-bottom: 23px;
+        margin-left: 8px;
+        border-radius: 50%;
+        background-color: darkcyan;
+        display: inline-block;
+    }
